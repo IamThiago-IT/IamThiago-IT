@@ -1,4 +1,4 @@
-### Hello world
+### Hello world https://github.githubassets.com/images/icons/emoji/octocat.png
 
 <!--
 **IamThiago-IT/IamThiago-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
