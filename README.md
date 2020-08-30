@@ -2,6 +2,8 @@
 
 ## My name is Thiago
 
+# Welcome to the new times. Hello, welcome to my github profile
+
 <!--
 **IamThiago-IT/IamThiago-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
