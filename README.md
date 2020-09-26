@@ -1,4 +1,4 @@
-# Hello world 👋
+# h1 align="center">Hello World 👋, I'm Thiago</h1>
 
 <p align="center">
 <a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="20" width="20" /></a>
