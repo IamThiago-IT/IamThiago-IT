@@ -1,4 +1,4 @@
-<h1> align="center">Hello World 👋, I'm Thiago</h1>
+<h1 align="center">Hello World 👋, I'm Thiago</h1>
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
