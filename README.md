@@ -1,4 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Thiago</h1>
+<h3 align="center">A Web Developer in search of the next level</h3>
+
+- 💬 Ask me about Web Programming
+
+- 📫 How to contact me thiagodossantos315@gmail.com
+
+- ⚡ In search of the next level
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
@@ -11,13 +18,13 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="20" width="20" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="20" width="20" /></a>
-<a href="https://codesandbox.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="" height="20" width="20" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="20" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="20" /></a>
+<a href="https://codepen.io/IamThiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="IamThiago" height="20" width="20" /></a>
+<a href="https://twitter.com/IamThiago_off" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="IamThiago" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/iamthiagoff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IamThiago" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/186698/iamthiago-it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="IamThiago" height="20" width="20" /></a>
+<a href="https://codesandbox.com/u/IamThiago-IT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="IamThiago" height="20" width="20" /></a>
+<a href="https://fb.com/IamThiagoff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="IamThiago" height="20" width="20" /></a>
+<a href="https://instagram.com/thiagodossantos_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="IamThiago" height="20" width="20" /></a>
 </p>
 
 <!--
