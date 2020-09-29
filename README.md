@@ -19,6 +19,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=IamThiago-IT" alt="IamThiago"/> 
 </p>
 
+<h3 align="center">Editores de Código</h3>
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" alt="atom" width="20" height="20"/></p><p align="center">
+</p>
+  
 <p align="center">
 <a href="https://codepen.io/IamThiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="IamThiago" height="20" width="20" /></a>
 <a href="https://twitter.com/IamThiago_off" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="IamThiago" height="20" width="20" /></a>
