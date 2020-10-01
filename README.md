@@ -20,7 +20,7 @@
 <h3 align="center">Editores de Código</h3>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" alt="atom" width="20" height="20"/></p><p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/></p><p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-original.svg" alt="vscode" width="20" height="20"/></p><p align="center">
 </p>
 
 <p align="center">
