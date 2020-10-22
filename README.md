@@ -23,9 +23,25 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="20" height="20"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamThiago-IT" alt="IamThiago"/> 
+  <a href="https://github.com/jadilson12/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamThiago-IT&layout=compact&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/jadilson12/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=IamThiago-IT&show_icons=true&theme=dracula"
+    />
+  </a>
 </p>
+
+---
 
 
   
