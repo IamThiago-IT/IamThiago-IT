@@ -17,13 +17,13 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p -->
 
-<p align="center">
+<!-- p align="center">
   
 <h3 align="center">Editores de Código</h3>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" alt="atom" width="20" height="20"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="20" height="20"/>
-</p>
+</p -->
 
 ---
 
