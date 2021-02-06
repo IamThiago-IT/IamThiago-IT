@@ -3,7 +3,6 @@
 
 
 
-
 - 💬 Ask me about Web Programming
 
 - 📫 How to contact me thiagodossantos315@gmail.com
