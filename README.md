@@ -46,7 +46,6 @@
 
 ---
 
-
   
 <p align="center">
 <a href="https://codepen.io/IamThiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="IamThiago" height="20" width="20" /></a>
