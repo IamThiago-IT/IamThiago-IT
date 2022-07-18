@@ -37,7 +37,8 @@
      alt="IamThiago-IT's most languages"
 />
 </p>
-
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=IamThiago-IT&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+  <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamThiago-IT&theme=monokai"/>
 <br><br>
 
 ## 👨‍💻 &nbsp;Social Links
