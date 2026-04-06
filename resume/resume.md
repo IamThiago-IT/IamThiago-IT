@@ -1,22 +1,22 @@
-# Resumo Profissional - Thiago
+# Professional Summary - Thiago
 
-Desenvolvedor Web focado em criar aplicacoes modernas, escalaveis e com boa experiencia de usuario.
-Tenho experiencia com JavaScript, React e Node.js, sempre buscando evoluir tecnicamente e entregar
-solucoes de qualidade.
+Web Developer focused on building modern, scalable applications with a strong user experience.
+I have experience with JavaScript, React, and Node.js, always looking to grow technically and
+deliver high-quality solutions.
 
-## Competencias
+## Skills
 
-- Desenvolvimento Front-end com React
-- Desenvolvimento Back-end com Node.js
-- JavaScript moderno (ES6+)
-- Git e GitHub
-- Boas praticas de UI e organizacao de codigo
+- Front-end development with React
+- Back-end development with Node.js
+- Modern JavaScript (ES6+)
+- Git and GitHub
+- UI best practices and clean code organization
 
-## Objetivo
+## Goal
 
-Atuar em projetos web desafiadores, contribuindo com performance, qualidade e crescimento continuo.
+Work on challenging web projects, contributing with performance, quality, and continuous growth.
 
-## Contato
+## Contact
 
 - Email: thiagodossantos315@gmail.com
 - GitHub: https://github.com/IamThiago-IT
